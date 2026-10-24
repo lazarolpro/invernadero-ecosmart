@@ -27,8 +27,17 @@ de instalar un solo sensor.
 - Emite el porcentaje de tiempo dentro de banda y la energía de calefacción
   acumulada.
 
+## Demo visual
+
+![Temperatura interior vs consigna y actuadores](assets/invernadero_demo.gif)
+
+La animación recorre las 24 h: temperatura, consigna y actuadores. Video completo:
+[`assets/invernadero_demo.mp4`](assets/invernadero_demo.mp4).
+
 ## Evidencia que produce
 
+- `assets/invernadero_demo.mp4`, `invernadero_demo.gif`, `invernadero_demo_poster.png`
+  — demo visual animado (con miniatura).
 - [`assets/muestra_invernadero.pdf`](assets/muestra_invernadero.pdf) — muestra
   resumida del informe de simulación (con marca de agua).
 - [`data/clima_24h.csv`](data/clima_24h.csv) — perfil de clima de entrada.
