@@ -1,0 +1,227 @@
+{
+  "pasos": [
+    {
+      "hora": 0,
+      "t_ext": 6.2,
+      "solar": 0.0,
+      "t_int": 18.03,
+      "heater": 1.0,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 1,
+      "t_ext": 5.8,
+      "solar": 0.0,
+      "t_int": 19.73,
+      "heater": 1.0,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 2,
+      "t_ext": 5.4,
+      "solar": 0.0,
+      "t_int": 18.05,
+      "heater": 0.0702,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 3,
+      "t_ext": 5.1,
+      "solar": 0.0,
+      "t_int": 19.66,
+      "heater": 1.0,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 4,
+      "t_ext": 4.9,
+      "solar": 0.0,
+      "t_int": 18.16,
+      "heater": 0.1406,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 5,
+      "t_ext": 5.0,
+      "solar": 10.0,
+      "t_int": 19.76,
+      "heater": 1.0,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 6,
+      "t_ext": 6.1,
+      "solar": 60.0,
+      "t_int": 18.2,
+      "heater": 0.039,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 7,
+      "t_ext": 7.8,
+      "solar": 150.0,
+      "t_int": 20.46,
+      "heater": 0.9929,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 8,
+      "t_ext": 9.6,
+      "solar": 280.0,
+      "t_int": 18.94,
+      "heater": 0.0,
+      "vent": 0.1147,
+      "en_banda": true
+    },
+    {
+      "hora": 9,
+      "t_ext": 11.5,
+      "solar": 430.0,
+      "t_int": 20.9,
+      "heater": 0.6,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 10,
+      "t_ext": 13.2,
+      "solar": 560.0,
+      "t_int": 20.15,
+      "heater": 0.0,
+      "vent": 0.2262,
+      "en_banda": true
+    },
+    {
+      "hora": 11,
+      "t_ext": 14.6,
+      "solar": 650.0,
+      "t_int": 20.74,
+      "heater": 0.0,
+      "vent": 0.0384,
+      "en_banda": true
+    },
+    {
+      "hora": 12,
+      "t_ext": 15.4,
+      "solar": 690.0,
+      "t_int": 21.01,
+      "heater": 0.0,
+      "vent": 0.1848,
+      "en_banda": true
+    },
+    {
+      "hora": 13,
+      "t_ext": 15.6,
+      "solar": 660.0,
+      "t_int": 21.0,
+      "heater": 0.0,
+      "vent": 0.2531,
+      "en_banda": true
+    },
+    {
+      "hora": 14,
+      "t_ext": 15.1,
+      "solar": 570.0,
+      "t_int": 20.66,
+      "heater": 0.0,
+      "vent": 0.2491,
+      "en_banda": true
+    },
+    {
+      "hora": 15,
+      "t_ext": 14.0,
+      "solar": 440.0,
+      "t_int": 20.14,
+      "heater": 0.0,
+      "vent": 0.1652,
+      "en_banda": true
+    },
+    {
+      "hora": 16,
+      "t_ext": 12.6,
+      "solar": 300.0,
+      "t_int": 19.65,
+      "heater": 0.0,
+      "vent": 0.0348,
+      "en_banda": true
+    },
+    {
+      "hora": 17,
+      "t_ext": 11.0,
+      "solar": 160.0,
+      "t_int": 19.34,
+      "heater": 0.1451,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 18,
+      "t_ext": 9.4,
+      "solar": 60.0,
+      "t_int": 19.68,
+      "heater": 0.4599,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 19,
+      "t_ext": 8.2,
+      "solar": 10.0,
+      "t_int": 18.57,
+      "heater": 0.1189,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 20,
+      "t_ext": 7.4,
+      "solar": 0.0,
+      "t_int": 19.08,
+      "heater": 0.6,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 21,
+      "t_ext": 6.9,
+      "solar": 0.0,
+      "t_int": 19.46,
+      "heater": 0.6,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 22,
+      "t_ext": 6.5,
+      "solar": 0.0,
+      "t_int": 18.88,
+      "heater": 0.3443,
+      "vent": 0.0,
+      "en_banda": true
+    },
+    {
+      "hora": 23,
+      "t_ext": 6.3,
+      "solar": 0.0,
+      "t_int": 19.2,
+      "heater": 0.6,
+      "vent": 0.0,
+      "en_banda": true
+    }
+  ],
+  "t_int_final": 19.2,
+  "t_int_min": 18.03,
+  "t_int_max": 21.01,
+  "pct_en_banda": 100.0,
+  "horas_calefaccion": 8.71,
+  "setpoint": 20.0,
+  "banda": 2.0
+}
